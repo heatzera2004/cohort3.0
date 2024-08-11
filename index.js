@@ -16,12 +16,12 @@
     
 //   }
   
-//   const rect = new Rectangle(2 , 4 , "red");
-//   const rect2 = new Rectangle(10 , 20 , "black")
-//   const area = rect.area()
-//   rect.paint()
-//   console.log(rect2.area());
-//   rect2.paint()
+  const rect = new Rectangle(2 , 4 , "red");
+  const rect2 = new Rectangle(10 , 20 , "black")
+  const area = rect.area()
+  rect.paint()
+  console.log(rect2.area());
+  rect2.paint()
 
-// const date = new Date()
-// console.log(date.getFullYear())
+const date = new Date()
+console.log(date.getFullYear())
